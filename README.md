@@ -1,6 +1,5 @@
-# My Skills
-* HTML5
-* CSS3
-* Bootstrap
+#HTML 🌼
+#CSS 🌹
+#Bootstrap 🍀
 
-Philippines/Singapore
+Philippines/Singapore 💓 🇵🇭🇸🇬
